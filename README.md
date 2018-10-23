@@ -1,13 +1,13 @@
 # Project Name
 
-> Project description
+> A microservice to for stock purchasing as part of a full-stack financial services app that tracked stock prices for the Friar Tuck Project of InvesTech Solutions, using modern Javascript technologies and Agile Methodology. 
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/InvesTech-Solutions/Graph-Display
+  - https://github.com/InvesTech-Solutions/SuggestedStocks-FriarTuck
+  - https://github.com/InvesTech-Solutions/JaeBae_Proxy_Bobbin-Hood
+  - https://github.com/InvesTech-Solutions/Earnings-and-Ratings
 
 ## Table of Contents
 
