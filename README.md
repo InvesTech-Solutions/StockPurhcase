@@ -1,6 +1,6 @@
 # Project Name
 
-> A microservice to for stock purchasing as part of a full-stack financial services app that tracked stock prices for the Friar Tuck Project of InvesTech Solutions, using modern Javascript technologies and Agile Methodology. 
+> A microservice to for stock purchasing as part of a full-stack financial services app that tracked stock prices for the Friar Tuck Application of InvesTech Solutions, using modern Javascript technologies and Agile Methodology. 
 
 ## Related Projects
 
